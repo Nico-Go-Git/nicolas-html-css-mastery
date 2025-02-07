@@ -1,0 +1,83 @@
+/* Nicolas Pinto CSS Mastery Assignment */
+
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 62.5%;
+}
+
+p, ul, ol, dl {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  margin-bottom: 1.2rem;
+  clear: both;
+}
+
+article {
+  max-width: 62rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu", serif;
+}
+
+h1 {
+  font-size: 2.7rem;
+  line-height: 3.1rem;
+  margin: 2rem 0;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 2.4rem;
+  margin: 1.6rem 0;
+}
+
+h3 {
+  font-size: 1.75rem;
+  line-height: 2.2rem;
+  margin: 1rem 0;
+}
+
+h4 {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+  margin: 1rem 0;
+}
+
+figcaption {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  float: right;
+  margin: .4rem;
+}
+
+.byline {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+}
+
+span{
+  font-style: italic;
+}
+
+blockquote {
+  border-left: .04rem gray solid;
+  padding: 2rem;
+  margin-left: 3rem;
+}
+
+ol li{
+  list-style-position: inside;
+}
+
+#comments {
+  max-width: 62rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.2rem;
+  background-color: #ccc;
+}
